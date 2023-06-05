@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell iвапролорпавывапроd="PbsCkn6PGvaPK4pif6GN-4" value="Кураторство&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;С1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;swimlaneFillColor=#404040;gradientColor=none;fillColor=#171717;" parent="1" vertex="1">
+        <mxCell id="PbsCkn6PGvaPK4pif6GN-4" value="Кураторство&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;С1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;swimlaneFillColor=#404040;gradientColor=none;fillColor=#171717;" parent="1" vertex="1">
           <mxGeometry x="610" y="-240" width="200" height="210" as="geometry">
             <mxRectangle x="330" y="-1070" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
